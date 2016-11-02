@@ -1,0 +1,37 @@
+h4, body {
+  color: #4c4c4c;
+}
+.header {
+  margin-top: 30px;
+}
+
+ hr {
+  border-top: 0.5px solid #0066CC;
+}
+
+.description h5 {
+  font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    color: #7b7b7b;
+    line-height: 1.6;
+}
+
+.form {
+  margin-top: 60px;
+}
+
+.form-group label {
+  font-size: 13.5px;
+}
+
+.year label {
+  font-size: 12px;
+  display: inline;
+}
+.year {
+  margin-top: 6px;
+}
+
+.office-use {
+  padding-top: 30px;
+}
